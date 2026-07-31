@@ -1,4 +1,4 @@
-# Spring Java Token Labs
+# Spring Java Calculator
 
 ## Descripción
 API REST desarrollada en Spring Boot (Java 21) que realiza cálculos con porcentajes obtenidos de servicios externos, incluyendo caché Redis y persistencia en PostgreSQL.
